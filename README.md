@@ -1,2 +1,2 @@
-# Website-discussion
-網站留言板
+# Website-Public
+網站公開資訊、留言板
